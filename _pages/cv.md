@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Engg. (Computer Science), Manipal Institute of Technology, India, 2004
-* Master of Science (Engg), Dept. of Computer Science and Automation, Indian Institute of Science, Bangalore, 2009
 * Doctor of Philosophy, Dept. of Computer and Information Science, University of Pennsylvania, Philadelphia, PA, 2016
+* Master of Science (Engg), Dept. of Computer Science and Automation, Indian Institute of Science, Bangalore, 2009
+* Bachelor of Engg. (Computer Science), Manipal Institute of Technology, India, 2004
 
 Work experience
 ======
