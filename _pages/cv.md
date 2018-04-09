@@ -17,24 +17,18 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Software Engineer, Microsoft Corporation (2016 - Present)
+* Research Assistant/PhD Student, University of Pennsylvania (2010 - 2016)
+* Research Intern, Intel Corporation (Summer 2013)
+* Research Intern, Microsoft Research India (Summer 2012)
+* Research Assistant, Microsoft Research India (2009 - 2010)
+* Assistant Systems Engineer, Tata Consultancy Services (2004 - 2006)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-Skills
+Research Skills/Areas
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Program Synthesis
+* Applied Verification
+* Model Checking
 
 Publications
 ======
