@@ -15,3 +15,5 @@ I graduated with a Ph.D. from the [University of Pennsylvania](http://cis.upenn.
 distrubuted protocols from a mix of formal and informal specifications. The [SyGuS](http://www.sygus.org/index.html) initiative was a happy by-product of my dissertation research.
 
 In a past life, before I started on the graduate school adventure, I used to be a maintainer and/or enhancer for the C runtime libraries (libc) on HPUX.
+
+If you're looking for prototypes and/or source code for the tools that I've built as part of my research, you may want to take a look <a href="https://github.com/abhishekudupa"><u>here</u></a>, and if you can't find what you're looking for, then feel free to send me an email.
