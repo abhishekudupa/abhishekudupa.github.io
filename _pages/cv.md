@@ -39,4 +39,4 @@ Publications
 
 PDF Version
 ======
-You can grab a (somewhat) more descriptive PDF version of my resume [here](http://abhishekudupa.github.io/files/audupa-resume.pdf).
+You can grab a (somewhat) more descriptive PDF version of my resume <a href="http://abhishekudupa.github.io/files/audupa-resume.pdf"><u>here.</u></a>
