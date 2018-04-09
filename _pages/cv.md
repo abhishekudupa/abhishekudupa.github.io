@@ -35,3 +35,8 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+
+PDF Version
+======
+You can grab a (somewhat) more descriptive PDF version of my resume [here](http://abhishekudupa.github.io/files/audupa-resume.pdf).
