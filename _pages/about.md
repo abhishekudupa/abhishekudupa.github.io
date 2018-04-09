@@ -9,12 +9,13 @@ redirect_from:
 ---
 
 I'm a researcher working to make program synthesis technologies
-available to the masses (unwashed or otherwise). I work with an
-awesome group of people in the
-[PROSE](https://microsoft.github.io/prose/) group at Microsoft.  Apart
-from program synthesis, I'm also interested in (an occasionally dabble
-in) applied verification, model checking and programming language
-research.
+available to the masses (unwashed or otherwise). I work with
+[this](https://microsoft.github.io/prose/team) awesome group of people
+at Microsoft, where we (the
+[PROSE](https://microsoft.github.io/prose/) team) are working hard to
+liberate people from the drudgery of writing code!  Apart from program
+synthesis, I'm also interested in (an occasionally dabble in) applied
+verification, model checking and programming language research.
 
 I graduated with a Ph.D. from the [University of
 Pennsylvania](http://cis.upenn.edu/index.php), where I was advised by
