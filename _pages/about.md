@@ -13,3 +13,5 @@ Apart from program synthesis, I'm also interested in (an occasionally dabble in)
 
 I graduated with a Ph.D. from the [University of Pennsylvania](http://cis.upenn.edu/index.php), where I was advised by [Rajeev Alur](http://www.cis.upenn.edu/~alur/). My dissertation explored techniques to automatically synthesize
 distrubuted protocols from a mix of formal and informal specifications. The [SyGuS](http://www.sygus.org/index.html) initiative was a happy by-product of my dissertation research.
+
+In a past life, before I started on the graduate school adventure, I used to be a maintainer and/or enhancer for the C runtime libraries (libc) on HPUX.
