@@ -14,7 +14,7 @@ available to the masses (unwashed or otherwise). I work with
 at Microsoft, where we (the
 [PROSE](https://microsoft.github.io/prose/) team) are working hard to
 liberate people from the drudgery of writing code!  Apart from program
-synthesis, I'm also interested in (an occasionally dabble in) applied
+synthesis, I'm also interested in (and occasionally dabble in) applied
 verification, model checking and programming language research.
 
 I graduated with a Ph.D. from the [University of
